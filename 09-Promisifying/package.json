@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^1.2.1",
+    "async": "^2.6.4",
     "bluebird": "^2.9.30",
     "chai": "^3.3.0",
     "chai-spies": "^0.7.1",
